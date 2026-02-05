@@ -59,22 +59,22 @@ const init = () => {
 		}
 	});
 	table.init();
-	firstLink.addEventListener("onclick", () => {
+	firstLink.addEventListener("click", () => {
 		if (!firstLink.classList.contains("disabled")) {
 			table.firstPage();
 		}
 	});
-	prevLink.addEventListener("onclick", () => {
+	prevLink.addEventListener("click", () => {
 		if (!prevLink.classList.contains("disabled")) {
 			table.prevPage();
 		}
 	});
-	lastLink.addEventListener("onclick", () => {
+	lastLink.addEventListener("click", () => {
 		if (!lastLink.classList.contains("disabled")) {
 			table.lastPage();
 		}
 	});
-	nextLink.addEventListener("onclick", () => {
+	nextLink.addEventListener("click", () => {
 		if (!nextLink.classList.contains("disabled")) {
 			table.nextPage();
 		}
