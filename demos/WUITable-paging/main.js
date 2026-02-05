@@ -1,11 +1,13 @@
+let firstLink, prevLink, nextLink, lastLink, paging, output, table;
+
 const init = () => {
-	const firstLink = document.body.querySelector(".my-link.first");
-	const prevLink = document.body.querySelector(".my-link.prev");
-	const nextLink = document.body.querySelector(".my-link.next");
-	const lastLink = document.body.querySelector(".my-link.last");
-	const paging = document.body.querySelector(".my-paging");
-	const output = document.body.querySelector(".my-output");
-	const table = new WUITable({
+	firstLink = document.body.querySelector(".my-link.first");
+	prevLink = document.body.querySelector(".my-link.prev");
+	nextLink = document.body.querySelector(".my-link.next");
+	lastLink = document.body.querySelector(".my-link.last");
+	paging = document.body.querySelector(".my-paging");
+	output = document.body.querySelector(".my-output");
+	table = new WUITable({
 		selector: ".wui-table.my-table",
 		//width: "auto",
 		paging: 5,
@@ -56,29 +58,7 @@ const init = () => {
 			output.textContent = `Select row - index: ${index}, id: ${id}, enabled: ${enabled}`;
 		}
 	});
-	const first = () => {
-		if (!firstLink.classList.contains("disabled")) {
-			table.first();
-		}
-	}
-	const prev = () => {
-		if (!prevLink.classList.contains("disabled")) {
-			table.prev();
-		}
-	}
-	const last = () => {
-		if (!lastLink.classList.contains("disabled")) {
-			table.last();
-		}
-	}
-	const next = () => {
-		if (!nextLink.classList.contains("disabled")) {
-			table.next();
-		}
-	}
-
 	table.init();
-
 	table.rows = [{
 		id: "row1", data: ["A 1", "B 1", "C 1", "D 1"]
 	}, {
@@ -106,4 +86,26 @@ const init = () => {
 	}];
 	table.print();
 }
+
+const first = () => {
+	if (!firstLink.classList.contains("disabled")) {
+		table.first();
+	}
+}
+const prev = () => {
+	if (!prevLink.classList.contains("disabled")) {
+		table.prev();
+	}
+}
+const last = () => {
+	if (!lastLink.classList.contains("disabled")) {
+		table.last();
+	}
+}
+const next = () => {
+	if (!nextLink.classList.contains("disabled")) {
+		table.next();
+	}
+}
+
 window.addEventListener("DOMContentLoaded", init);
