@@ -32,14 +32,14 @@ const init = () => {
 		//draggable: true,
 		//selectable: true,
 		onPrint: (page, pages, total) => {
-			if (table.isPrevEnable()) {
+			if (table.hasPrevPage()) {
 				firstLink.classList.remove("disabled");
 				prevLink.classList.remove("disabled");
 			} else {
 				firstLink.classList.add("disabled");
 				prevLink.classList.add("disabled");
 			}
-			if (table.isNextEnable()) {
+			if (table.hasNextPage()) {
 				lastLink.classList.remove("disabled");
 				nextLink.classList.remove("disabled");
 			} else {
@@ -87,24 +87,24 @@ const init = () => {
 	table.print();
 }
 
-const first = () => {
+const firstPage = () => {
 	if (!firstLink.classList.contains("disabled")) {
-		table.first();
+		table.firstPage();
 	}
 }
-const prev = () => {
+const prevPage = () => {
 	if (!prevLink.classList.contains("disabled")) {
-		table.prev();
+		table.prevPage();
 	}
 }
-const last = () => {
+const lastPage = () => {
 	if (!lastLink.classList.contains("disabled")) {
-		table.last();
+		table.lastPage();
 	}
 }
-const next = () => {
+const nextPage = () => {
 	if (!nextLink.classList.contains("disabled")) {
-		table.next();
+		table.nextPage();
 	}
 }
 
