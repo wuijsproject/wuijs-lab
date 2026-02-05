@@ -1,12 +1,12 @@
-let firstLink, prevLink, nextLink, lastLink, paging, output, table;
+let table;
 
 const init = () => {
-	firstLink = document.body.querySelector(".my-link.first");
-	prevLink = document.body.querySelector(".my-link.prev");
-	nextLink = document.body.querySelector(".my-link.next");
-	lastLink = document.body.querySelector(".my-link.last");
-	paging = document.body.querySelector(".my-paging");
-	output = document.body.querySelector(".my-output");
+	const firstLink = document.body.querySelector(".my-link.first");
+	const prevLink = document.body.querySelector(".my-link.prev");
+	const nextLink = document.body.querySelector(".my-link.next");
+	const lastLink = document.body.querySelector(".my-link.last");
+	const paging = document.body.querySelector(".my-paging");
+	const output = document.body.querySelector(".my-output");
 	table = new WUITable({
 		selector: ".wui-table.my-table",
 		//width: "auto",
@@ -60,22 +60,22 @@ const init = () => {
 	});
 	table.init();
 	firstLink.addEventListener("click", () => {
-		if (!firstLink.classList.contains("disabled")) {
+		if (!this.classList.contains("disabled")) {
 			table.firstPage();
 		}
 	});
 	prevLink.addEventListener("click", () => {
-		if (!prevLink.classList.contains("disabled")) {
+		if (!this.classList.contains("disabled")) {
 			table.prevPage();
 		}
 	});
 	lastLink.addEventListener("click", () => {
-		if (!lastLink.classList.contains("disabled")) {
+		if (!this.classList.contains("disabled")) {
 			table.lastPage();
 		}
 	});
 	nextLink.addEventListener("click", () => {
-		if (!nextLink.classList.contains("disabled")) {
+		if (!this.classList.contains("disabled")) {
 			table.nextPage();
 		}
 	});
