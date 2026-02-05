@@ -60,22 +60,22 @@ const init = () => {
 	});
 	table.init();
 	firstLink.addEventListener("click", () => {
-		if (!this.classList.contains("disabled")) {
+		if (!firstLink.classList.contains("disabled")) {
 			table.firstPage();
 		}
 	});
 	prevLink.addEventListener("click", () => {
-		if (!this.classList.contains("disabled")) {
+		if (!prevLink.classList.contains("disabled")) {
 			table.prevPage();
 		}
 	});
 	lastLink.addEventListener("click", () => {
-		if (!this.classList.contains("disabled")) {
+		if (!lastLink.classList.contains("disabled")) {
 			table.lastPage();
 		}
 	});
 	nextLink.addEventListener("click", () => {
-		if (!this.classList.contains("disabled")) {
+		if (!nextLink.classList.contains("disabled")) {
 			table.nextPage();
 		}
 	});
