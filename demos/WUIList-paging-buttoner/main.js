@@ -53,6 +53,33 @@ const init = () => {
 		}
 	});
 	list.init();
+}
+
+const firstPage = () => {
+	if (!firstLink.classList.contains("disabled")) {
+		list.firstPage();
+	}
+}
+
+const prevPage = () => {
+	if (!prevLink.classList.contains("disabled")) {
+		list.prevPage();
+	}
+}
+
+const lastPage = () => {
+	if (!lastLink.classList.contains("disabled")) {
+		list.lastPage();
+	}
+}
+
+const nextPage = () => {
+	if (!nextLink.classList.contains("disabled")) {
+		list.nextPage();
+	}
+}
+
+const load = () => {
 	list.rows = [{
 		id: "row1", data: ["", "A 1", "B 1", "C 1"]
 	}, {
@@ -81,25 +108,7 @@ const init = () => {
 	list.print();
 }
 
-const firstPage = () => {
-	if (!firstLink.classList.contains("disabled")) {
-		list.firstPage();
-	}
-}
-const prevPage = () => {
-	if (!prevLink.classList.contains("disabled")) {
-		list.prevPage();
-	}
-}
-const lastPage = () => {
-	if (!lastLink.classList.contains("disabled")) {
-		list.lastPage();
-	}
-}
-const nextPage = () => {
-	if (!nextLink.classList.contains("disabled")) {
-		list.nextPage();
-	}
-}
-
-window.addEventListener("DOMContentLoaded", init);
+window.addEventListener("DOMContentLoaded", () => {
+	init();
+	load();
+});
