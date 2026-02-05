@@ -106,4 +106,4 @@ const init = () => {
 	}];
 	table.print();
 }
-window.addEventListener("load", init);
+window.addEventListener("DOMContentLoaded", init);
