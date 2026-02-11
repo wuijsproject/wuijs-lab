@@ -24,7 +24,7 @@
 	--wui-form-input-height: 30px;
 	--wui-form-input-borderwidth: 1px;
 	--wui-form-input-borderradius: 10px;
-	--wui-form-input-bordercolor-out: rgb(from #1e90ff r g b / 20%);
+	--wui-form-input-bordercolor-out: rgb(from #1e90ff r g b / 0%);
 	--wui-form-input-bordercolor-focus: #1e90ff;
 	--wui-form-input-bordercolor-invalid: #f44343;
 	--wui-form-input-bordercolor-disabled: #d5dce3;
