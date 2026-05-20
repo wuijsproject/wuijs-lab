@@ -7,7 +7,7 @@ This demo shows the use of WUIMenubar's submenu functionality.
 ## WUI JS Stack
 
 - WUIIcon - 0.4
-- WUIMenubar - 0.4
+- WUIMenubar - 0.5
 
 ## Documentation
 

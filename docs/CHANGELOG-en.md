@@ -7,6 +7,14 @@
 
 # Change Log
 
+## [v0.7.1] - 2026-05-16
+
+Features:
+
+1. Changed dependency from url (`wuijs.dev`) to CDN (`cdn.jsdelivr.net`).
+2. Synchronized the version with the `0.7.1` version of the `wuijs-main-lib` library
+3. Compatibility versions `0.7.1` of the `wuijs-main-lib` and `wuijs-plugins-lib` libraries.
+
 ## [v0.6.1] - 2026-05-06
 
 Features:
