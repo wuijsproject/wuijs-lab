@@ -1,15 +1,15 @@
 const init = () => {
 	const body = new WUIBody({
 		//environment: "web",
-		importDirectory: "./modules/",
+		importDirectory: "./sections/",
 		//importMode: "fetch",
 		onCompleted: () => {
 			body.prepare();
 		},
 		debug: true
 	});
-	body.import("testContent", "test/module", () => {
-		testContentLog("test content loaded");
+	body.import("mySection", "my-section/section", () => {
+		mySectionContentLog("test content loaded");
 	});
 }
 

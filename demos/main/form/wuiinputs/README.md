@@ -6,15 +6,15 @@ This demo shows the use of WUIForm with fill style and WUI inputs components.
 
 ## WUI JS Stack
 
-- WUIIcon - 0.4
-- WUIForm - 0.5
-- WUISelectpicker - 0.7
+- WUIIcon - 0.6
+- WUIForm - 0.6
+- WUISelectpicker - 0.8
 - WUIDatepicker - 0.7
-- WUITimepicker - 0.7
-- WUIColorpicker - 0.7
+- WUITimepicker - 0.8
+- WUIColorpicker - 0.8
 - WUISwitch - 0.6
 - WUIIntensity - 0.4
-- WUIButton - 0.7
+- WUIButton - 0.8
 
 ## Documentation
 

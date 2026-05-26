@@ -6,8 +6,8 @@ This demo shows the use of WUIForm with fill style and native HTML inputs.
 
 ## WUI JS Stack
 
-- WUIIcon - 0.4
-- WUIForm - 0.5
+- WUIIcon - 0.6
+- WUIForm - 0.6
 
 ## Documentation
 

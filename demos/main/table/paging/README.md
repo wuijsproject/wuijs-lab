@@ -7,7 +7,7 @@ Table data is loaded directly in component creation.
 
 ## WUI JS Stack
 
-- WUITable - 0.5
+- WUITable - 0.6
 
 ## Documentation
 
