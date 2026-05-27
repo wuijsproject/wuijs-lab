@@ -14,8 +14,8 @@
 |                       | |
 | --------------------- | ----------- |
 | **Nombre librería**   | `wuijs-demos` |
-| **Versión librería**  | `0.8.0` |
-| **Versión documento** | `0.8.0.20260516.0` |
+| **Versión librería**  | `0.8.1` |
+| **Versión documento** | `0.8.1.20260516.0` |
 | **Licencia**          | `Licencia Apache 2.0` |
 | **Autor**             | `Sergio E. Belmar V. <wuijs.project@gmail.com>` |
 | **Repositorio**       | [https://github.com/wui-js/wuijs-demos](https://github.com/wui-js/wuijs-demos) |
