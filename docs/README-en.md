@@ -14,8 +14,8 @@
 |                      | |
 | -------------------- | ----------- |
 | **Library name**     | `wuijs-demos` |
-| **Library version**  | `0.9.0` |
-| **Document version** | `0.9.0.20260528.0` |
+| **Library version**  | `0.9.1` |
+| **Document version** | `0.9.1.20260528.0` |
 | **License**          | `Apache License 2.0` |
 | **Author**           | `Sergio E. Belmar V. <wuijs.project@gmail.com>` |
 | **Repository**       | [https://github.com/wui-js/wuijs-demos](https://github.com/wui-js/wuijs-demos) |

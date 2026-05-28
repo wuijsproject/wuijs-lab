@@ -12,8 +12,8 @@
 Features:
 
 1. Changed dependency from url (`wuijs.dev`) to CDN (`cdn.jsdelivr.net`).
-2. Synchronized the version with the `0.9.0` version of the `wuijs-main-lib` library
-3. Compatibility versions `0.9.0` of the `wuijs-main-lib` and `wuijs-plugins-lib` libraries.
+2. Synchronized the version with the `0.9.1` version of the `wuijs-main-lib` library
+3. Compatibility versions `0.9.1` of the `wuijs-main-lib` and `wuijs-plugins-lib` libraries.
 
 ## [v0.6.1] - 2026-05-06
 

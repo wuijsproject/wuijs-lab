@@ -13,7 +13,7 @@ Características:
 
 1. Se cambió dependencia de url (`wuijs.dev`) a CDN (`cdn.jsdelivr.net`).
 2. Se sincronizó la versión con las versiones de las librerías `wuijs-main-lib` y `wuijs-plugins-lib`.
-3. Compatibilidad versiones `0.9.0` de la librerías `wuijs-main-lib` y `wuijs-plugins-lib`.
+3. Compatibilidad versiones `0.9.1` de la librerías `wuijs-main-lib` y `wuijs-plugins-lib`.
 
 ## [v0.1.3] - 2026-05-06
 
