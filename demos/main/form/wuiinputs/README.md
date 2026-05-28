@@ -8,7 +8,7 @@ This demo shows the use of WUIForm with fill style and WUI inputs components.
 
 - WUIIcon - 0.6
 - WUIForm - 0.6
-- WUISelectpicker - 0.8
+- WUISelectpicker - 0.9
 - WUIDatepicker - 0.7
 - WUITimepicker - 0.8
 - WUIColorpicker - 0.8
