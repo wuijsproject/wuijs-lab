@@ -6,7 +6,7 @@ This demo shows the use of WUIFormat for number, string and date formatting.
 
 ## WUI JS Stack
 
-- WUIFormat - 0.3
+- WUIFormat - 0.4
 
 ## Documentation
 
