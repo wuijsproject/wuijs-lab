@@ -1,5 +1,5 @@
 const init = () => {
-	const output = document.body.querySelector(".my-output");
+	const output = document.body.querySelector(".output");
 	const cookie = new WUICookie({
 		//domain: location.hostname,
 		//path: "./",

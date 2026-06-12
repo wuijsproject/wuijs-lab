@@ -1,3 +1,7 @@
+.my-section {
+	margin: 10px;
+}
+
 .my-section a,
 .my-section a:visited {
 	text-decoration: none;

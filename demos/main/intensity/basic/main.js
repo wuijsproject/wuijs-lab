@@ -1,5 +1,5 @@
 const init = () => {
-	const output = document.body.querySelector(".my-output");
+	const output = document.body.querySelector(".output");
 	const intensity = new WUIIntensity({
 		selector: ".wui-intensity.my-intensity",
 		value: 1,

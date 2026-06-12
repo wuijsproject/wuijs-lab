@@ -1,9 +1,13 @@
 const init = () => {
-	const output = document.body.querySelector(".my-output");
+	const output = document.body.querySelector(".output");
 	const menubar = new WUIMenubar({
 		selector: ".wui-menubar.my-menubar",
+		centered: false,
+		separations: true,
+		//compacted: false,
 		//expansive: true,
 		autoClose: false,
+		//hiddenPassiveBorder: false,
 		topButtons: [{
 			id: "logo",
 			iconImage: "https://wuijs.dev/images/logo/wuijs-isotype-color.svg",

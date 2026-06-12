@@ -1,7 +1,7 @@
 const init = () => {
 	const element = document.getElementById("myElement");
-	const fadeinButton = document.querySelector(".my-button.fadein");
-	const fadeoutButton = document.querySelector(".my-button.fadeout");
+	const fadeinButton = document.querySelector("button.fadein");
+	const fadeoutButton = document.querySelector("button.fadeout");
 	const options = {
 		delay: 200,
 		//display: "block"

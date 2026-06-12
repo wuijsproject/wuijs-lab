@@ -1,5 +1,5 @@
 const init = () => {
-	const output = document.body.querySelector(".my-output");
+	const output = document.body.querySelector(".output");
 	const switchbox = new WUISwitch({
 		selector: ".wui-switch.my-switch",
 		value: "1",

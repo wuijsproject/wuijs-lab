@@ -1,0 +1,8 @@
+return {
+	titles: {
+		test: "Test title"
+	},
+	texts: {
+		test: "Test text"
+	}
+};

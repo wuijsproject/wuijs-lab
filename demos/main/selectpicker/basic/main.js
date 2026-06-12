@@ -1,10 +1,10 @@
 const init = () => {
-	const output = document.body.querySelector(".my-output");
+	const output = document.body.querySelector(".output");
 	const selectpicker = new WUISelectpicker({
 		selector: ".wui-selectpicker.my-selectpicker",
+		//lang: "en",
 		//options: [],
 		value: "2",
-		//lang: "en",
 		//texts: {},
 		//openDirection: "down",
 		//boxAlign: "center",
@@ -23,6 +23,9 @@ const init = () => {
 		},
 		onChange: (value) => {
 			output.textContent = `Changed - value: ${value}`;
+		},
+		onClose: (value) => {
+			output.textContent = `Closed - value: ${value}`;
 		}
 	});
 	selectpicker.init();

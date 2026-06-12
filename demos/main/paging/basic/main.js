@@ -1,5 +1,5 @@
 const init = () => {
-	const output = document.body.querySelector(".my-output");
+	const output = document.body.querySelector(".output");
 	const paging = new WUIPaging({
 		selector: ".wui-paging.my-paging",
 		//index: null,

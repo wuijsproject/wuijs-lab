@@ -14,8 +14,8 @@
 |                      | |
 | -------------------- | ----------- |
 | **Library name**     | `wuijs-demos` |
-| **Library version**  | `0.10.0` |
-| **Document version** | `0.10.0.20260603.0` |
+| **Library version**  | `0.11.0` |
+| **Document version** | `0.11.0.20260612.0` |
 | **License**          | `Apache License 2.0` |
 | **Author**           | `Sergio E. Belmar V. <wuijs.project@gmail.com>` |
 | **Repository**       | [https://github.com/wui-js/wuijs-demos](https://github.com/wui-js/wuijs-demos) |
@@ -47,59 +47,67 @@ The WUI/JS Demos demos are available on CodeSandbox.io at the following address 
 
 ## WUI/JS Main Lib
 
-1.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/resource-loader/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/resource-loader/basic)<br>
+1.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-resource-loader-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-resource-loader-basic&lang=en)<br>
 	This demo shows the use of the WUI Resource Loader script.<br><br>
-2.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/cookie/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/cookie/basic)<br>
+2.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-cookie-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-cookie-basic&lang=en)<br>
 	This demo shows the use of WUICookie's basic functionality.<br><br>
-3.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/body/import](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/body/import)<br>
+3.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-body-import&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-body-import&lang=en)<br>
 	This demo shows the use of WUIBody's import functionality.<br><br>
-4.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/scrolly/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/scrolly/basic)<br>
+4.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-language-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-language-basic&lang=en)<br>
+	This demo shows the use of WUILanguage's basic functionality.<br><br>
+5.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-scrolly-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-scrolly-basic&lang=en)<br>
 	This demo shows the use of WUIScrolly's basic functionality.<br><br>
-5.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/icon/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/icon/basic)<br>
+6.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-icon-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-icon-basic&lang=en)<br>
 	This demo shows the use of WUIIcon's basic implementation.<br><br>
-6.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/fade/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/fade/basic)<br>
+7.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-fade-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-fade-basic&lang=en)<br>
 	This demo shows the use of WUIFade's basic functionality.<br><br>
-7.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/modal/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/modal/basic)<br>
+8.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-loader-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-loader-basic&lang=en)<br>
+	This demo shows the use of WUILoader's basic functionality.<br><br>
+9.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-tooltip-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-tooltip-basic&lang=en)<br>
+	This demo shows the use of WUITooltip's basic functionality.<br><br>
+10.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-modal-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-modal-basic&lang=en)<br>
 	This demo shows the use of WUIModal's basic functionality.<br><br>
-8.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/paging/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/paging/basic)<br>
+11.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-paging-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-paging-basic&lang=en)<br>
 	This demo shows the use of WUIPaging's submenu functionality.<br><br>
-9.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/slider/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/slider/basic)<br>
+12.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-slider-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-slider-basic&lang=en)<br>
 	This demo shows the use of WUISlider's basic functionality.<br><br>
-10.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/menubar/submenu](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/menubar/submenu)<br>
+13.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-tabs-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-tabs-basic&lang=en)<br>
+	This demo shows the use of WUITabs's basic functionality.<br><br>
+14.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-menubar-submenu&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-menubar-submenu&lang=en)<br>
 	This demo shows the use of WUIMenubar's submenu functionality.<br><br>
-11.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/list/paging-buttongroup](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/list/paging-buttongroup)<br>
+15.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-list-paging-buttongroup&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-list-paging-buttongroup&lang=en)<br>
 	This demo shows the use of WUIList's pagination functionality through HTML buttons.<br>
 	The side button group with pull cover is configured with two buttons, one associated with a possible editing functionality and the other with deletion.<br>
 	List data is loaded directly in component creation.<br><br>
-12.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/table/paging](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/table/paging)<br>
+16.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-table-paging&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-table-paging&lang=en)<br>
 	This demo shows the use of WUITable's pagination functionality through HTML buttons.<br>
 	Table data is loaded directly in component creation.<br><br>
-13.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/form/fillstyle](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/form/fillstyle)<br>
+17.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-form-fillstyle&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-form-fillstyle&lang=en)<br>
 	This demo shows the use of WUIForm with fill style and native HTML inputs.<br><br>
-14.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/form/linestyle](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/form/linestyle)<br>
+18.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-form-linestyle&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-form-linestyle&lang=en)<br>
 	This demo shows the use of WUIForm with line style and native HTML inputs.<br><br>
-15.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/form/wuiinputs](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/form/wuiinputs)<br>
+19.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-form-wuiinputs&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-form-wuiinputs&lang=en)<br>
 	This demo shows the use of WUIForm with fill style and WUI inputs components.<br><br>
-16.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/format/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/format/basic)<br>
+20.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-format-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-format-basic&lang=en)<br>
 	This demo shows the use of WUIFormat for number, string and date formatting.<br><br>
-17.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/selectpicker/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/selectpicker/basic)<br>
+21.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-selectpicker-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-selectpicker-basic&lang=en)<br>
 	This demo shows the use of WUISelectpicker's basic functionality.<br><br>
-18.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/datepicker/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/datepicker/basic)<br>
+22.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-datepicker-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-datepicker-basic&lang=en)<br>
 	This demo shows the use of WUIDatepicker's basic functionality.<br><br>
-19.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/timepicker/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/datepicker/basic)<br>
+23.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-timepicker-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-timepicker-basic&lang=en)<br>
 	This demo shows the use of WUITimepicker's basic functionality.<br><br>
-20.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/colorpicker/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/datepicker/basic)<br>
+24.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-colorpicker-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-colorpicker-basic&lang=en)<br>
 	This demo shows the use of WUIColorpicker's basic functionality.<br><br>
-21.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/switch/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/switch/basic)<br>
+25.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-switch-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-switch-basic&lang=en)<br>
 	This demo shows the use of WUISwitch's basic functionality.<br><br>
-22.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/intensity/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/intensity/basic)<br>
+26.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-intensity-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-intensity-basic&lang=en)<br>
 	This demo shows the use of WUIIntensity's basic functionality.<br><br>
-23.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/button/basic](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/main/button/basic)<br>
+27.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-button-basic&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-main-button-basic&lang=en)<br>
 	This demo shows the use of WUIButton's basic functionality.<br><br>
 
 ## WUI/JS Plugins Lib
 
-1.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/plugins/themes/switchmode](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/plugins/themes/switchmode)<br>
+1.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-plugin-themes-switchmode&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-plugin-themes-switchmode&lang=en)<br>
 	This demo shows the use of WUIPluginThemes's switch light and dark mode functionality.<br><br>
-2.	[https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/plugins/themes/customtheme](https://codesandbox.io/p/sandbox/github/wui-js/wuijs-demos/tree/main/demos/plugins/themes/customtheme)<br>
+2.	[http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-plugin-themes-customtheme&lang=en](http://docs.wuijs.dev/pages/docs/home/?id=wuijs-demos-plugin-themes-customtheme&lang=en)<br>
 	This demo shows the use of WUIPluginThemes's custom predefined themes.<br><br>
