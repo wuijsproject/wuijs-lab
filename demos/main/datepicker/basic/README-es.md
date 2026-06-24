@@ -10,8 +10,8 @@ Esta demostración muestra el uso de las funciones básicas de WUIDatepicker.
 
 ## Stack WUI/JS
 
-- WUIIcon - 0.7
-- WUIDatepicker - 0.9
+- WUIIcon - 0.8
+- WUIDatepicker - 0.10
 
 ## Documentación
 

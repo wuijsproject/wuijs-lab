@@ -10,7 +10,7 @@ This demo shows the use of WUISlider's basic functionality.
 
 ## WUI/JS Stack
 
-- WUISlider - 0.6
+- WUISlider - 0.7
 
 ## Documentation
 
@@ -94,9 +94,9 @@ nav > button {
 HTML Header:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/slider/wui-slider-0.6.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/slider/wui-slider-0.6.css">
-<script type="text/javascript" src="/libraries/wui-js/main/slider/wui-slider-0.6.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/slider/wui-slider-0.7.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/slider/wui-slider-0.7.css">
+<script type="text/javascript" src="/libraries/wui-js/main/slider/wui-slider-0.7.js"></script>
 ```
 
 HTML Code:

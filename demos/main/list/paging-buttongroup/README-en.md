@@ -12,8 +12,8 @@ List data is loaded directly in component creation.
 
 ## WUI/JS Stack
 
-- WUIIcon - 0.7
-- WUIList - 0.6
+- WUIIcon - 0.8
+- WUIList - 0.7
 
 ## Documentation
 
@@ -92,11 +92,11 @@ footer {
 HTML head:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.7.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.7.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/list/wui-list-0.6.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/list/wui-list-0.6.css">
-<script type="text/javascript" src="/libraries/wui-js/main/list/wui-list-0.6.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.8.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.8.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/list/wui-list-0.7.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/list/wui-list-0.7.css">
+<script type="text/javascript" src="/libraries/wui-js/main/list/wui-list-0.7.js"></script>
 ```
 
 HTML code:

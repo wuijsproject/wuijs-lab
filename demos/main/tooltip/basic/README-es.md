@@ -10,7 +10,7 @@ Esta demostración muestra el uso de las funciones básicas de WUITooltip.
 
 ## Stack WUI/JS
 
-- WUITooltip - 0.4
+- WUITooltip - 0.5
 
 ## Documentación
 
@@ -68,9 +68,9 @@ nav {
 Cabecera HTML:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tooltip/wui-tooltip-0.4.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tooltip/wui-tooltip-0.4.css">
-<script type="text/javascript" src="/libraries/wui-js/main/tooltip/wui-tooltip-0.4.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tooltip/wui-tooltip-0.5.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tooltip/wui-tooltip-0.5.css">
+<script type="text/javascript" src="/libraries/wui-js/main/tooltip/wui-tooltip-0.5.js"></script>
 ```
 
 Código HTML:

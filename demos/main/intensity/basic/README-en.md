@@ -10,7 +10,7 @@ This demo shows the use of WUIIntensity's basic functionality.
 
 ## WUI/JS Stack
 
-- WUIIntensity - 0.5
+- WUIIntensity - 0.6
 
 ## Documentation
 
@@ -54,9 +54,9 @@ nav {
 HTML head:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/intensity/wui-intensity-0.5.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/intensity/wui-intensity-0.5.css">
-<script type="text/javascript" src="/libraries/wui-js/main/intensity/wui-intensity-0.5.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/intensity/wui-intensity-0.6.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/intensity/wui-intensity-0.6.css">
+<script type="text/javascript" src="/libraries/wui-js/main/intensity/wui-intensity-0.6.js"></script>
 ```
 
 HTML code:

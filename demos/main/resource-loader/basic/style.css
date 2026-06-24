@@ -21,4 +21,16 @@ nav {
 	max-width: 200px;
 }
 
-/*.my-switch {}*/
+/* dark mode compatibility */
+
+/*body {
+	background-color: #fff;
+	color: #1f2937;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #1f2937;
+		color: #d5dce3;
+	}
+}*/

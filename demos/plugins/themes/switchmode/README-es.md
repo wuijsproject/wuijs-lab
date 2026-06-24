@@ -10,8 +10,8 @@ Este demo muestra el uso de la funcionalidad de cambio entre modo claro y oscuro
 
 ## Stack WUI/JS
 
-- WUIPluginThemes - 0.10
-- WUISwitch - 0.7
+- WUIPluginThemes - 0.11
+- WUISwitch - 0.8
 
 ## Documentación
 
@@ -51,11 +51,11 @@ nav {
 Cabecera HTML:
 
 ```html
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/main/switch/wui-switch-0.7.css">
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.10.css">
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/default/settings-0.10.css">
-<script type="text/javascript" src="./libraries/wui-js/main/switch/wui-switch-0.7.js"></script>
-<script type="text/javascript" src="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.10.js"></script>
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/main/switch/wui-switch-0.8.css">
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.11.css">
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/default/settings-0.11.css">
+<script type="text/javascript" src="./libraries/wui-js/main/switch/wui-switch-0.8.js"></script>
+<script type="text/javascript" src="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.11.js"></script>
 ```
 
 Código HTML:

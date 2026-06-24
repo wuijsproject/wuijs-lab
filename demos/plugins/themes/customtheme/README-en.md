@@ -10,8 +10,8 @@ This demo shows the use of WUIPluginThemes's custom predefined themes.
 
 ## WUI/JS Stack
 
-- WUIPluginThemes - 0.10
-- WUISwitch - 0.7
+- WUIPluginThemes - 0.11
+- WUISwitch - 0.8
 
 ## Documentation
 
@@ -63,12 +63,12 @@ nav {
 HTML head:
 
 ```html
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/main/switch/wui-switch-0.7.css">
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.10.css">
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/default/settings-0.10.css">
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/main/switch/wui-switch-0.8.css">
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.11.css">
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/default/settings-0.11.css">
 <link type="text/css" rel="stylesheet" href="./wui.css">
-<script type="text/javascript" src="./libraries/wui-js/main/switch/wui-switch-0.7.js"></script>
-<script type="text/javascript" src="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.10.js"></script>
+<script type="text/javascript" src="./libraries/wui-js/main/switch/wui-switch-0.8.js"></script>
+<script type="text/javascript" src="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.11.js"></script>
 ```
 
 HTML code:
