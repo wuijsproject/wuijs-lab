@@ -10,8 +10,8 @@ Esta demostración muestra el uso de las funciones básicas de WUIModal.
 
 ## Stack WUI/JS
 
-- WUIIcon - 0.8
-- WUIModal - 0.8
+- WUIIcon - 0.10
+- WUIModal - 0.10
 
 ## Documentación
 
@@ -72,11 +72,11 @@ nav > button {
 Cabecera HTML:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.8.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.8.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/modal/wui-modal-0.8.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/modal/wui-modal-0.8.css">
-<script type="text/javascript" src="/libraries/wui-js/main/modal/wui-modal-0.8.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.10.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.10.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/modal/wui-modal-0.10.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/modal/wui-modal-0.10.css">
+<script type="text/javascript" src="/libraries/wui-js/main/modal/wui-modal-0.10.js"></script>
 ```
 
 Código HTML:

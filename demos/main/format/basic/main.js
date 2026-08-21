@@ -85,7 +85,7 @@ const stringEmailValidation = () => {
 const stringURLValidation = () => {
 	const inputValue = "https://www.example.com";
 	const output = document.body.querySelector(".output.stringURLValidation");
-	const outputValid = inputValue.wuiValidateURL();
+	const outputValid = inputValue.wuiValidateUrl();
 	output.innerHTML = "<pre>"
 		+ `<b>URL validation</b>\n`
 		+ `input value  : ${inputValue}\n`
@@ -96,7 +96,7 @@ const stringURLValidation = () => {
 const stringIPv4Validation = () => {
 	const inputValue = "127.0.0.1";
 	const output = document.body.querySelector(".output.stringIPv4Validation");
-	const outputValid = inputValue.wuiValidateIPv4();
+	const outputValid = inputValue.wuiValidateIpv4();
 	output.innerHTML = "<pre>"
 		+ `<b>IPv4 validation</b>\n`
 		+ `input value  : ${inputValue}\n`
@@ -134,7 +134,7 @@ const stringNIDValidation = () => {
 	const inputValue = "1.234.567-4";
 	const inputCountryCode = "CL";
 	const output = document.body.querySelector(".output.stringNIDValidation");
-	const outputValid = inputValue.wuiValidateNID(inputCountryCode);
+	const outputValid = inputValue.wuiValidateNid(inputCountryCode);
 	output.innerHTML = "<pre>"
 		+ `<b>NID validation</b>\n`
 		+ `input value        : ${inputValue}\n`

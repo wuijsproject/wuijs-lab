@@ -10,7 +10,7 @@ Esta demostración muestra el uso de las funciones básicas de WUITimepicker.
 
 ## Stack WUI/JS
 
-- WUITimepicker - 0.10
+- WUITimepicker - 0.11
 
 ## Documentación
 
@@ -62,9 +62,9 @@ nav {
 Cabecera HTML:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/timepicker/wui-timepicker-0.10.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/timepicker/wui-timepicker-0.10.css">
-<script type="text/javascript" src="/libraries/wui-js/main/timepicker/wui-timepicker-0.10.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/timepicker/wui-timepicker-0.11.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/timepicker/wui-timepicker-0.11.css">
+<script type="text/javascript" src="/libraries/wui-js/main/timepicker/wui-timepicker-0.11.js"></script>
 ```
 
 Código HTML:

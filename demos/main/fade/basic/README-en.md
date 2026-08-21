@@ -10,7 +10,7 @@ This demo shows the use of WUIFade's basic functionality.
 
 ## WUI/JS Stack
 
-- WUIFade - 0.3
+- WUIFade - 0.5
 
 ## Documentation
 
@@ -75,7 +75,7 @@ nav button {
 HTML head:
 
 ```html
-<script type="text/javascript" src="/libraries/wui-js/main/fade/wui-fade-0.4.js"></script>
+<script type="text/javascript" src="/libraries/wui-js/main/fade/wui-fade-0.5.js"></script>
 ```
 
 HTML code:

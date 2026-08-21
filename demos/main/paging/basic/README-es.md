@@ -10,7 +10,7 @@ Esta demostración muestra el uso de las funciones básicas de WUIPaging.
 
 ## Stack WUI/JS
 
-- WUIPaging - 0.8
+- WUIPaging - 0.9
 
 ## Documentación
 
@@ -76,9 +76,9 @@ body {
 Cabecera HTML:
 
 ```html
-<link rel="stylesheet" type="text/css" href="/libraries/wui-js/main/paging/wui-paging-0.8.root.css">
-<link rel="stylesheet" type="text/css" href="/libraries/wui-js/main/paging/wui-paging-0.8.css">
-<script type="text/javascript" src="/libraries/wui-js/main/paging/wui-paging-0.8.js"></script>
+<link rel="stylesheet" type="text/css" href="/libraries/wui-js/main/paging/wui-paging-0.9.root.css">
+<link rel="stylesheet" type="text/css" href="/libraries/wui-js/main/paging/wui-paging-0.9.css">
+<script type="text/javascript" src="/libraries/wui-js/main/paging/wui-paging-0.9.js"></script>
 ```
 
 Código HTML:

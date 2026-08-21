@@ -10,7 +10,7 @@ This demo shows the use of WUIBody's import functionality.
 
 ## WUI/JS Stack
 
-- WUIBody - 0.5
+- WUIBody - 0.7
 
 ## Documentation
 
@@ -86,7 +86,7 @@ body {
 HTML head:
 
 ```html
-<script type="text/javascript" src="/libraries/wui-js/main/body/wui-body-0.5.js"></script>
+<script type="text/javascript" src="/libraries/wui-js/main/body/wui-body-0.7.js"></script>
 ```
 
 HTML code:

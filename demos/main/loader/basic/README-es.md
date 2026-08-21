@@ -10,7 +10,7 @@ Esta demostración muestra el uso de las funciones básicas de WUILoader.
 
 ## Stack WUI/JS
 
-- WUILoader - 0.6
+- WUILoader - 0.7
 
 ## Documentación
 
@@ -59,9 +59,9 @@ nav > div .text {
 Cabecera HTML:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/loader/wui-loader-0.6.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/loader/wui-loader-0.6.css">
-<script type="text/javascript" src="/libraries/wui-js/main/loader/wui-loader-0.6.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/loader/wui-loader-0.7.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/loader/wui-loader-0.7.css">
+<script type="text/javascript" src="/libraries/wui-js/main/loader/wui-loader-0.7.js"></script>
 ```
 
 Código HTML:
