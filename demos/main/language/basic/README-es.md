@@ -10,7 +10,7 @@ Este demo muestra el uso de la funcionalidad básica de WUILanguage.
 
 ## Stack WUI/JS
 
-- WUILanguage - 0.6
+- WUILanguage - 0.7
 
 ## Documentación
 
@@ -121,7 +121,7 @@ nav select {
 Cabecera HTML:
 
 ```html
-<script type="text/javascript" src="/libraries/wui-js/main/language/wui-language-0.6.js"></script>
+<script type="text/javascript" src="/libraries/wui-js/main/language/wui-language-0.7.js"></script>
 ```
 
 Código HTML:

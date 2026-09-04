@@ -10,7 +10,7 @@ This demo shows the use of WUISwitch's basic functionality.
 
 ## WUI/JS Stack
 
-- WUISwitch - 0.9
+- WUISwitch - 0.10
 
 ## Documentation
 
@@ -54,9 +54,9 @@ nav {
 HTML head:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/switch/wui-switch-0.9.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/switch/wui-switch-0.9.css">
-<script type="text/javascript" src="/libraries/wui-js/main/switch/wui-switch-0.9.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/switch/wui-switch-0.10.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/switch/wui-switch-0.10.css">
+<script type="text/javascript" src="/libraries/wui-js/main/switch/wui-switch-0.10.js"></script>
 ```
 
 HTML code:

@@ -10,8 +10,8 @@ Esta demostración muestra el uso de las funciones básicas de WUITabs.
 
 ## Stack WUI/JS
 
-- WUIIcon - 0.10
-- WUITabs - 0.6
+- WUIIcon - 0.11
+- WUITabs - 0.7
 
 ## Documentación
 
@@ -69,11 +69,11 @@ nav {
 Cabecera HTML:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.10.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.10.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tabs/wui-tabs-0.6.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tabs/wui-tabs-0.6.css">
-<script type="text/javascript" src="/libraries/wui-js/main/tabs/wui-tabs-0.6.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.11.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/icon/wui-icon-0.11.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tabs/wui-tabs-0.7.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/tabs/wui-tabs-0.7.css">
+<script type="text/javascript" src="/libraries/wui-js/main/tabs/wui-tabs-0.7.js"></script>
 ```
 
 Código HTML:

@@ -10,8 +10,8 @@ Esta demostración muestra el uso de las funciones básicas de WUIDatepicker.
 
 ## Stack WUI/JS
 
-- WUIIcon - 0.10
-- WUIDatepicker - 0.11
+- WUIIcon - 0.11
+- WUIDatepicker - 0.12
 
 ## Documentación
 
@@ -63,9 +63,9 @@ nav {
 Cabecera HTML:
 
 ```html
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/datepicker/wui-datepicker-0.11.root.css">
-<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/datepicker/wui-datepicker-0.11.css">
-<script type="text/javascript" src="/libraries/wui-js/main/datepicker/wui-datepicker-0.11.js"></script>
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/datepicker/wui-datepicker-0.12.root.css">
+<link type="text/css" rel="stylesheet" href="/libraries/wui-js/main/datepicker/wui-datepicker-0.12.css">
+<script type="text/javascript" src="/libraries/wui-js/main/datepicker/wui-datepicker-0.12.js"></script>
 ```
 
 Código HTML:

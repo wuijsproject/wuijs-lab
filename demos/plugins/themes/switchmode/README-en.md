@@ -11,7 +11,7 @@ This demo shows the use of WUIPluginThemes's switch light and dark mode function
 ## WUI/JS Stack
 
 - WUIPluginThemes - 0.12
-- WUISwitch - 0.9
+- WUISwitch - 0.10
 
 ## Documentation
 
@@ -51,10 +51,10 @@ nav {
 HTML head:
 
 ```html
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/main/switch/wui-switch-0.9.css">
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/main/switch/wui-switch-0.10.css">
 <link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.12.css">
-<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/default/settings-0.12.css">
-<script type="text/javascript" src="./libraries/wui-js/main/switch/wui-switch-0.9.js"></script>
+<link type="text/css" rel="stylesheet" href="./libraries/wui-js/plugins/themes/default/settings-0.13.css">
+<script type="text/javascript" src="./libraries/wui-js/main/switch/wui-switch-0.10.js"></script>
 <script type="text/javascript" src="./libraries/wui-js/plugins/themes/wuiplugin-themes-0.12.js"></script>
 ```
 
